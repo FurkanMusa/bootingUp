@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BootingApplication<booting>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.furk.booting.BootingApplication",
+            "projectName": "booting",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
